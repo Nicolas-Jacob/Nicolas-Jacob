@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<!-- TOPO ESCURO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=header"/>
 
 <h2 align="center">Olá, eu sou o Nícolas 💻</h2>
 
@@ -24,6 +25,8 @@ Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na FIAP, com 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasoliveirajacob/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasoliveirajacob@gmail.com)
 
+---
+
 <h2 align="center">🚀 Tecnologias e Linguagens</h2>
 
 <p align="center">
@@ -31,6 +34,7 @@ Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na FIAP, com 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </p>
 
 ---
@@ -44,4 +48,5 @@ Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na FIAP, com 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<!-- RODAPÉ ESCURO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=footer"/>
